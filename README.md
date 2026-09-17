@@ -14,7 +14,7 @@
 
 💻 I enjoy building web applications, backend APIs, and data-driven projects.
 
-🧠 Currently improving my skills in Data Engineering, Python, Pandas, SQL, and Machine Learning.
+🧠 Currently improving my skills in Data Engineering, and Machine Learning.
 
 🔧 I like solving programming problems and turning ideas into working applications.
 
@@ -125,7 +125,7 @@ Real-time ambulance dispatch application using Java Spring Boot and MongoDB.
 - Dijkstra shortest-path algorithm
 - Ambulance and hospital management
 - REST APIs
-
+🔗 [View Project](https://github.com/shambhu-pandey/Ambulance_Dispatch_System)
 ---
 
 ### 🛡️ Digital Twin Fraud Detection
@@ -182,19 +182,7 @@ Data transformation project using dbt and Snowflake with a MovieLens/Netflix-sty
 
 I regularly practice Data Structures and Algorithms and work on coding problems to improve my problem-solving skills.
 
-🔗 [My LeetCode Solutions](https://github.com/shambhu-pandey/my-leetcode-solutions)
-
----
-
-## 🎯 Currently Learning
-
-- Python & Pandas
-- Data Engineering
-- SQL
-- dbt
-- Machine Learning
-- Backend Development
-- System Design
+🔗 [My Coding Profile](https://codolio.com/profile/Shambhu1008)
 
 ---
 
