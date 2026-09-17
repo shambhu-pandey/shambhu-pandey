@@ -125,7 +125,7 @@ Real-time ambulance dispatch application using Java Spring Boot and MongoDB.
 - Dijkstra shortest-path algorithm
 - Ambulance and hospital management
 - REST APIs
-🔗 [View Project](https://github.com/shambhu-pandey/Ambulance_Dispatch_System)
+[View Project](https://github.com/shambhu-pandey/Ambulance_Dispatch_System)
 ---
 
 ### 🛡️ Digital Twin Fraud Detection
